@@ -1,2 +1,32 @@
 # Ehentai-Donation
 A tutorial about how to donate Ehentai.org 
+
+ehentai : https://e-hentai.org/ </br>
+
+exhentai : https://exhentai.org/ </br>
+
+exhentai has more content(like lolicon, guro etc...)
+
+Click on the exhentai address. If any content appears, it means that your account has permission to access exhentai,
+if you can't, you can choose to donate, after you donate, you can see the Exhentai's content in Ehentai(You will see more content in Ehentai)
+
+If you have any question, you can ask in my tg group
+https://t.me/carbon_research
+
+# 2. Get the donation address of your ehentai account.
+
+log in to your account, My Home → Donation → Bitcoin Cash 
+
+You can see a string of letters on the left
+
+qp0mq6efflz626m59pfq63en8eu4hq4pdukpffthcq
+
+This is our bch wallet address, which we will use later
+
+![pictur/eh_home.jpeg](picture/eh_home.jpeg)
+
+# 3. How to buy crypto currency
+
+**Personal recommendation [Binance](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44), the world’s largest digital currency exchange**
+
+1. [Binance](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44) (0.1% trading fee, friendly operation interface, reference code [R1SE0A44](https:// accounts.binance.com/zh-CN/register?ref=R1SE0A44](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44))
