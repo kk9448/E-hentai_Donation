@@ -30,3 +30,20 @@ This is our bch wallet address, which we will use later
 **Personal recommendation [Binance](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44), the world’s largest digital currency exchange**
 
 1. [Binance](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44) (0.1% trading fee, friendly operation interface, reference code [R1SE0A44](https:// accounts.binance.com/zh-CN/register?ref=R1SE0A44](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44))
+
+First, register an account on Binance and use my refereal link to get the highest level of fee rebate
+
+(Do not use IP addresses from the United States, Japan, or Hong Kong, Binance does not provide services in these places)
+
+After completing the verification, please send a private message on telegram @carbon_x
+
+Receive exclusive benefits of 5/12usdt
+
+referal link
+[https://www.binance.com/zh-CN/join?ref=R1SE0A44](https://www.binance.com/zh-CN/join?ref=R1SE0A44)
+
+All crypto currency transactions are conducted using the U.S.dollar stable coin USDT (1:1 with the U.S. dollar, **1USDT is equivalent to 1 U.S. dollar**)
+
+Register an account and complete identity verification, you can purchase USDT
+
+## Web version tutorial
