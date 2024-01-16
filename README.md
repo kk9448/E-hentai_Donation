@@ -47,3 +47,28 @@ All crypto currency transactions are conducted using the U.S.dollar stable coin 
 Register an account and complete identity verification, you can purchase USDT
 
 ## Web version tutorial
+
+on the left corner, please select Buy Crypto
+
+![choose buy crypto](assets/choose%20buy%20crypto.jpeg)
+
+In the next page, please select you local currency usdt and the select the payment method, and then follow the website.
+
+![choose your local currency](assets/choose%20your%20local%20currency-1.jpeg)
+
+After finish the purchase, you will get your USDT in your funding wallet
+
+![Enter Funding wallet](assets/Enter%20Funding%20wallet.jpeg)
+
+Enter funding wallet, then click transfer
+
+![click transfer](media/click%20transfer.jpeg)
+
+transfer from funding account to fair and spot account, enter the quantity, and then click Confirm
+
+![transfer usdt](media/transfer%20usdt.jpeg)
+
+choose trade, spot
+
+![spot trade](media/spot%20trade.jpeg)
+
