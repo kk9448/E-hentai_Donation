@@ -72,3 +72,7 @@ choose trade, spot
 
 ![spot trade](media/spot%20trade.jpeg)
 
+Select the search box at the top of the home page, enter bch, and select the bch/usdt trading pair
+
+![input bch](media/input%20bch.jpeg)
+
