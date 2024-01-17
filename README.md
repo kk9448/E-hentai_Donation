@@ -82,3 +82,18 @@ Select the search box at the top of the home page, enter bch, and select the bch
 
 ![input bch](media/input%20bch.jpeg)
 
+scroll down, select market, enter 20, then click Buy BCH
+
+![withdraw bch1](media/withdrawl%20bch1-1.jpeg)
+
+go back to the spot wallet, click withdraw
+
+select bch, and paste the previous address we get in our ehentai home, 
+
+select the bitcoin cash network, please be focus, 
+the receive amount must be bigger than the amount in the blue 
+![withdraw bch2](media/withdraw%20bch2-1.jpeg)
+
+![picture/捐赠数量.jpeg](picture/捐赠数量.jpeg)
+                              
+
