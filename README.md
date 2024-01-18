@@ -91,9 +91,29 @@ go back to the spot wallet, click withdraw
 select bch, and paste the previous address we get in our ehentai home, 
 
 select the bitcoin cash network, please be focus, 
-the receive amount must be bigger than the amount in the blue 
+the receive amount must be bigger than the amount in the blue rectangle
 ![withdraw bch2](media/withdraw%20bch2-1.jpeg)
+
 
 ![picture/捐赠数量.jpeg](picture/捐赠数量.jpeg)
                               
+                              
+## Mobile Version
 
+First download Binance in the app store
+
+You can use my [reference code R1SE0A44](https://accounts.binance.com/zh-CN/register?ref=R1SE0A44) when registering
+
+After registering an account
+
+In the transaction tab, select Fiat
+
+then you can buy usdt through fiat
+
+![Fiat](media/Fiat.jpeg)
+
+enter bch in the search bar in the home page
+
+![enter bch](media/enter%20bch.jpeg)
+
+![select bchUsdt pair](media/select%20bchUsdt%20pair.jpeg)
